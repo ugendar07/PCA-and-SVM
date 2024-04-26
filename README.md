@@ -33,7 +33,7 @@ Make sure you have the following installed:
 - [Python](https://www.python.org/) and [pip](https://pip.pypa.io/)
 - [NumPy](https://numpy.org/) 
 
-### Installation
+ 
 
 ### Installation
 
